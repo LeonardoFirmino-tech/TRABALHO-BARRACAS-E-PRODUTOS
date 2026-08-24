@@ -1,6 +1,6 @@
 
 
-| **Requisito**                                               | **Breve explicação**                                                                                                                                                            |
+| **Requisito**                                               | **explicação**                                                                                                                                                            |
 | ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **ID do Produto**                                           | Código único que identifica cada produto cadastrado no sistema, evitando duplicidade e facilitando a localização do item.                                                       |
 | **ID da Barraca**                                           | Código único utilizado para identificar cada barraca da festa, permitindo relacionar os produtos e as vendas ao local correto.                                                  |
