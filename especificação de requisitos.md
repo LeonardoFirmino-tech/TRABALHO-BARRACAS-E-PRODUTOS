@@ -1,5 +1,3 @@
-Claro. Mantendo todos os outros atributos e trocando apenas “Prioridade” por “O que precisa fazer”:
-
 # Especificação de Requisitos
 
 | ID | Como fazer | Tipo | Descrição | O que precisa fazer | Como realiza o requisito |
